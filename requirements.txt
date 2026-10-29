@@ -1,0 +1,12 @@
+# Direct runtime dependencies inferred from the supplied scripts.
+# Original package versions were not supplied; this is not a lockfile.
+numpy
+xarray
+pandas
+torch
+scipy
+scikit-image
+matplotlib
+netCDF4
+
+# Optional map projections and coastlines: install cartopy separately.
